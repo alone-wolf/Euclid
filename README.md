@@ -1,4 +1,4 @@
-# Euclid
+# Euclid MD简历界面 图片后补
 
 This project is an implementation of the User Profile Interface Animation. Made in [Yalantis] (https://yalantis.com/?utm_source=github)
 
